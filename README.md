@@ -1,2 +1,2 @@
 # cp
-Competitive programming
+Competitive programming Data Structure and Algorithms. 
