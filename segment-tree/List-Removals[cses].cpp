@@ -92,7 +92,7 @@ int main() {
         if(i) cout << ' ';
         cout << v[ans];
 
-        // updating position to 0
+        // updating position value to 0
         update(ans);
 
     }
